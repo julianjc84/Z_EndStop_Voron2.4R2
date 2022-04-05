@@ -21,12 +21,12 @@ https://github.com/VoronDesign/Voron-Hardware/tree/master/Microswitch_Z_Endstop/
 As both these EndStops are too large and press into the base plate.
 
 Objective:
-I have redrawn the Z_EndStop to cleanly fit between the 20x20 rail without touching the base. Some users like myself use a ACM or AliGloss aluminium coated panel that shorts the switch out if touched and if the Z_EndStop protudes past the linear rail it pushes down the sheet, asethetically does not look nice.
+- I have redrawn the Z_EndStop to cleanly fit between the 20x20 rail without touching the base. Some users like myself use a ACM or AliGloss aluminium coated panel that shorts the switch out if touched and if the Z_EndStop protudes past the linear rail it pushes down the sheet, asethetically does not look nice.
 
 Solutions:
-Use the larger the existing hardware, lift the switch above the base plate and then raise the heat bed a few mm to accomodate the 27.21mm and loose some Z access.
+- Use the larger the existing hardware, lift the switch above the base plate and then raise the heat bed a few mm to accomodate the 27.21mm and loose some Z access.
 OR
-Modify the EndStop to not use the GearPully cog as guide. being ABS and under a 100degree heat bed. issues are surely advised.
+- Modify the EndStop to not use the GearPully cog as guide. being ABS and under a 100degree heat bed. issues are surely advised.
 
 This STL is designed to fit perfectly, Due to the tolerances and spaces allowed I came up with this solution to remove the GearPully.
 
