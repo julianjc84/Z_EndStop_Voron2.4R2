@@ -3,6 +3,7 @@ Voron2.4r2 Z_EndStop STL
 
 The original z_EndstopStop that listed on the VORON Git is too large and protudes above and bellow the 20x20 linear rails.
 there is also a Compressed/Narrow version out there but that is still too large!.
+https://github.com/VoronDesign/Voron-Hardware/tree/master/Microswitch_Z_Endstop/STLs
 
 I have redrawn the Z_EndStop to cleanly fit between the 20x20 rail without touching the base. Some users use a ACM or AliGloss aluminium coated panel that shorts the switch out if touched and if the Z_EndStop protudes past the linear rail it pushes down the sheet.
 
