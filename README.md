@@ -13,7 +13,7 @@ Dimensions of the Parts in Use:
 - 16.04mm The pully pin cog.
 - 11.17mm Circuit board is.
 - 27.21mm Total
-Its impossible to fit the Z_EndStop without touching theHeatBed and or base plate. And the current design works by pushing the lower base plate cover sheet down.
+- Its impossible to fit the Z_EndStop without touching theHeatBed and or base plate. And the current design works by pushing the lower base plate cover sheet down.
 
 The original z_EndstopStop that listed on the VORON Git is too large and protudes above and bellow the 20x20 linear rails.
 there is also a Compressed/Narrow version out there but that is still too large!.
