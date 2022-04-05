@@ -2,7 +2,7 @@
 Voron2.4r2 Z_EndStop STL
 
 Space Provided on the Voron 2.4R2
-- After measuring the heights. the original Z_EndStop will never fit. its impossible.
+After measuring the heights. the original Z_EndStop will never fit. its impossible.
 - 20mm Linear Rail
 - 7.42mm Thumb Nuts
 - 27.4 Total
@@ -10,9 +10,9 @@ Space Provided on the Voron 2.4R2
 - Usable Space of = 25.4mm space for the Z_EndStop.
 
 Dimensions of the Parts in Use:
-16.04mm The pully pin cog.
-11.17mm Circuit board is.
-27.21mm Total
+- 16.04mm The pully pin cog.
+- 11.17mm Circuit board is.
+- 27.21mm Total
 Its impossible to fit the Z_EndStop without touching theHeatBed and or base plate. And the current design works by pushing the lower base plate cover sheet down.
 
 The original z_EndstopStop that listed on the VORON Git is too large and protudes above and bellow the 20x20 linear rails.
