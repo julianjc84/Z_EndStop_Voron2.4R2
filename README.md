@@ -2,12 +2,12 @@
 Voron2.4r2 Z_EndStop STL
 
 Space Provided on the Voron 2.4R2
-!After measuring the heights. the original Z_EndStop will never fit. its impossible.
-!20mm Linear Rail
-!7.42mm Thumb Nuts
-!27.4 Total
-!Tolerance of 1mm Top and bottom
-!Usable Space of = 25.4mm space for the Z_EndStop.
+- After measuring the heights. the original Z_EndStop will never fit. its impossible.
+- 20mm Linear Rail
+- 7.42mm Thumb Nuts
+- 27.4 Total
+- Tolerance of 1mm Top and bottom
+- Usable Space of = 25.4mm space for the Z_EndStop.
 
 Dimensions of the Parts in Use:
 16.04mm The pully pin cog.
