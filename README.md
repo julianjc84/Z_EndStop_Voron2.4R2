@@ -35,7 +35,7 @@ ONSHAPE CAD https://cad.onshape.com/documents/e1354a125be9dce09332e63b/w/70244db
 
 Download in the STL folder
 
-![](/images/ZEndStop_New.jpg) 
+![](/images/zEndStop_New.jpg) 
 
 ![](/images/zEndStop_inplace1.jpg) 
 
