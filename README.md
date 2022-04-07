@@ -34,6 +34,6 @@ ONSHAPE CAD https://cad.onshape.com/documents/e1354a125be9dce09332e63b/w/70244db
 
 Download in the STL folder
 
-![](/images/render1.png) 
-![](/images/render2.png) 
-![](/images/render3.png) 
+![](/images/render1.jpg) 
+![](/images/render2.jpg) 
+
