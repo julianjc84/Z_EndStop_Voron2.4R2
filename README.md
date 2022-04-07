@@ -34,7 +34,8 @@ This STL is designed to fit perfectly, Due to the tolerances and spaces allowed 
 ONSHAPE CAD https://cad.onshape.com/documents/e1354a125be9dce09332e63b/w/70244db17e9ae51604cb706e/e/d2d49ef7c74e6b2f688bc911
 
 Download in the STL folder
-![](/images/ZEndStop_new.jpg) 
+
+![](/images/ZEndStop_New.jpg) 
 
 ![](/images/ZEndStop_inplace1.jpg) 
 
