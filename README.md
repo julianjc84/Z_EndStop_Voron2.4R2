@@ -39,7 +39,7 @@ Download in the STL folder
 
 ![](/images/zEndStop_inplace1.jpg) 
 
-![](/images/ZEndStop_inplace2.jpg) 
+![](/images/zEndStop_inplace2.jpg) 
 
 ![](/images/render1.jpg) 
 
