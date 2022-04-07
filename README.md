@@ -19,6 +19,7 @@ The original z_EndstopStop that listed on the VORON Git is too large and protude
 there is also a Compressed/Narrow version out there but that is still too large!.
 https://github.com/VoronDesign/Voron-Hardware/tree/master/Microswitch_Z_Endstop/STLs
 As both these EndStops are too large and press into the base plate.
+![](/images/before_touchBed.jpg) 
 
 Objective:
 - I have redrawn the Z_EndStop to cleanly fit between the 20x20 rail without touching the base. Some users like myself use a ACM or AliGloss aluminium coated panel that shorts the switch out if touched and if the Z_EndStop protudes past the linear rail it pushes down the sheet, asethetically does not look nice.
